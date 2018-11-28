@@ -49,12 +49,12 @@ visa-app/pom.xml
     <repository>
       <id>vissaapp-releases</id>
       <name>vissaapp-releases</name>
-      <url>http://ec2-13-232-95-238.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/vissaapp-releases/</url>
+      <url>http://ec2-13-233-63-40.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/visacard-releases/</url>
     </repository>
     <snapshotRepository>
       <id>vissaapp-snapshots</id>
       <name>vissaapp-snapshots</name>
-      <url>http://ec2-13-232-95-238.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/vissaapp-snapshots/</url>
+      <url>http://ec2-13-233-63-40.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/visacard-snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
